@@ -12,9 +12,9 @@
                 <key>background</key>
                 <string>#030300</string>
                 <key>caret</key>
-                <string>#F2E049</string>
+                <string>#FFFFFF</string>
                 <key>foreground</key>
-                <string>#D1D6B0</string>
+                <string>#C5C4C6</string>
                 <key>invisibles</key>
                 <string>#F3FFB5</string>
                 <key>lineHighlight</key>
@@ -31,10 +31,21 @@
                 <string>#000000</string>
                 <key>gutterForeground</key>
                 <string>#343434</string>
+
+                <!-- Guides -->
                 <key>guide</key>
                 <string>#1a2323</string>
                 <key>activeGuide</key>
+                <string>#096B8B</string>
+                <key>stackGuide</key>
                 <string>#1b2735</string>
+
+                <!-- Brakets -->
+                <key>braketsForeground</key>
+                <string>#ffc600</string>
+                <key>bracketContentsForeground</key>
+                <string>#000000</string>
+
             </dict>
         </dict>
         <dict>
@@ -58,7 +69,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#64DD5D</string>
+                <string>#E0323D</string>
                 <key>fontStyle</key>
                 <string></string>
             </dict>
@@ -86,7 +97,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#e8e8e8</string>
+                <string>#3CADD7</string>
             </dict>
         </dict>
         <dict>
@@ -99,7 +110,7 @@
                 <key>fontStyle</key>
                 <string>normal</string>
                 <key>foreground</key>
-                <string>#BBF017</string>
+                <string>#64DD5D</string>
             </dict>
         </dict>
         <dict>
@@ -271,7 +282,7 @@
                 <key>fontStyle</key>
                 <string></string>
                 <key>foreground</key>
-                <string>#25BEAA</string>
+                <string>#BD4230</string>
             </dict>
         </dict>
         <dict>
@@ -559,7 +570,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#32C4FF</string>
+                <string>#F2E049</string>
                 <!-- <key>fontStyle</key>
                 <string> normal</string> -->
             </dict>
@@ -572,7 +583,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#76ffcd</string>
+                <string>#F96827</string>
                 <!-- <key>fontStyle</key>
                 <string>normal</string> -->
             </dict>
@@ -585,7 +596,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#266b85</string>
+                <string>#32C4FF</string>
             </dict>
         </dict>
         <dict>
@@ -653,7 +664,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#5eebb8</string>
+                <string>#25BEAA</string>
             </dict>
         </dict>
         <dict>
